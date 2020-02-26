@@ -1,0 +1,237 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.main-header{
+	font-family: arial;
+
+}
+.header{
+	width: 100%;
+	height: 100px;
+}
+.header-info{
+	font-family: arial;
+}
+.business-logo{
+	background-color:#fff;
+	margin: auto;
+	height: 100px;
+	width: 1000px;
+}
+.business-logo img{
+	margin-top: 17px;
+}
+.date-time{
+	width: 100%;
+	height:35px;
+	background-color:#024e89;
+}
+.name-2 span{
+	margin-left: 50px;
+}
+.date{
+	margin: auto;
+	height: 100px;
+	width: 1000px;
+}
+.date p{
+	float: left;
+	font-weight: bold;
+	color: white;
+	margin: 0;
+	margin-top: 12px;
+	letter-spacing: 1px;
+	font-size: 12px;
+}
+.business-info{
+	margin: auto;
+	width: 100%;
+	height:800px;
+	font-family: arial;
+}
+.login-info{
+	margin: auto;
+	width: 1000px;
+}
+.left-list{
+	float: left;
+	width: 160px;
+}
+.left-list ul{
+	border:1px solid gray;
+	margin: 0;
+}
+.login-info table{
+	float:left;
+}
+.page-info{
+	float: left;
+	width: 80%;
+	margin-left:20px;
+	margin-top: 8px;
+	font-family: arial;
+	font-size: 13px;
+}
+.hr1{
+	border-top: 2px dotted gray;
+}
+.list-info {
+	padding-left: 0;
+	list-style-type: none;
+}
+.list-info li{
+	font-size: 13px;
+}
+.licontent{
+	border-bottom: solid 1px gray;
+	color: #024e89;
+	padding-top: 15px;
+	font-weight: bold;
+	padding-left: 3px;
+	margin: 0;
+}
+.content{
+	border-bottom: solid 1px black;
+	margin-top: 2px;
+	font-weight: bold;
+	padding-left: 3px;
+}
+.Login-info{
+	color:gray;
+	padding-left: 5px;
+}
+.para p{
+	margin: 0;
+	color:#024e89; 
+	font-weight: bold;
+}
+.head p{
+	margin: 0;
+	color:#024e89; 
+	font-weight: bold;
+}
+.para{
+	border:1px solid black;
+	width: 100%;
+	height:400px;
+
+}
+.create-table{
+	width: 97%;
+	height:450px;
+	margin-top: 5px;
+	margin-left: 10px;
+
+}
+.page-head p{
+	padding: 5px;
+	color: black;
+	background-color: lightgray;
+	border-bottom: 1px  solid gray;
+}
+.border td{
+	border:1px solid gray;
+	padding: 4px;
+}
+.select {
+	background-color: white;
+	width:177px;
+	padding:4px;
+}
+.input-info span{
+	margin-left:137px;
+}
+.name input{
+	width: 162px;
+	padding:6px;
+}
+.Title span{
+	margin-left:137px;
+}
+.Meta-Description span{
+	margin-left:72px;
+}
+.Meta span{
+	margin-left: 67px;
+}
+.name span{
+	margin-left: 120px;
+}
+.Title input{
+	width: 162px;
+	padding:6px;
+}
+.images img{
+	float:right;
+	padding: 0;
+}
+.name-2 span{
+	margin-left: 117px;
+}
+.name-2 input{
+
+	width: 590px;
+	height: 300px;
+}
+.border{
+	border:1px  solid green ;
+	border-collapse: collapse;
+	width: 97%;
+	margin-left: 10px;	
+	margin-top: 20px;
+}
+.input-info span{
+	margin-left: 87px;
+}
+.img span{
+	margin-left:128px;
+
+}
+.img button{
+	background-color: lightgray;
+	border:gray;
+	padding: 3px;
+}
+.span-1{
+	color:gray;
+}
+.Display span{
+	margin-left:85px;
+}
+.Status span{
+	margin-left:125px;
+}
+.btn{
+	margin-left:170px;
+
+}
+.info span{
+	font-weight: bold;
+	font-size: 16px;
+}
+.info input{
+	padding: 8px;
+}
+.inpt {
+	border-bottom: 1px solid black;
+}
+.delete-btn{
+	margin-top: 5px;
+	background-color:navy ;
+	border:navy;
+	font-size:15px;
+	padding: 5px;
+	font-weight: bold;
+	color: white;
+	width:80px;
+}
+/*.page-info{
+
+}*/
+.footer-line{
+	width: 100%;
+	height:35px;
+	background-color:#024e89;
+}
